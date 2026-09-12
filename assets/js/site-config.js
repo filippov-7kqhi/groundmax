@@ -19,9 +19,9 @@ window.SITE_CONFIG = {
     phone:     ""
   },
 
-  analyticsEndpoint: "",
+  analyticsEndpoint: "https://agrimax-groundmax-collector.stellapark1141.workers.dev",
 
-  checkoutEndpoint: "",
+  checkoutEndpoint: "https://agrimax-groundmax-collector.stellapark1141.workers.dev/checkout",
 
   paymentLinks: {
     "GM-VHF71": "https://buy.stripe.com/5kQaEWewb6UYaBI1vPeZ204",
